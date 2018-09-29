@@ -2,3 +2,8 @@
 h1 {
     font-size: 2em;
 }
+
+#page5 {
+    background: url('../img/wolfsnow.jpeg') center center no-repeat;
+    background-size: cover;
+  }
