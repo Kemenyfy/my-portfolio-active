@@ -28,6 +28,37 @@ p.social a {
 }
 
 #page7 {
-    background: url('../img/gusk.jpeg') center center no-repeat;
     background-size: cover;
+  }
+
+.aboutme {
+    width: 80%;
+    transform: rotate(180deg);
+}
+
+.contact-form {
+    width: 80%;
+    margin: auto; 
+}
+
+.credits {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.credit {
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+@media (max-width: 768px) {
+    .credits {
+        margin-top: 40px;
+        margin-left: 0;
+    }
+
+    .credit {
+        margin-top: 40px;
+        margin-right: 0px;
+    }
   }
