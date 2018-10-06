@@ -50,6 +50,11 @@ p.social a {
     margin-right: 20px;
 }
 
+.contactExtra {
+    text-align: center;
+    margin: -20px 0 20px 0;
+}
+
 @media (max-width: 768px) {
     .credits {
         margin-top: 40px;
