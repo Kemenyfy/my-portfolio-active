@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    // "deploy": "surge ./public --domain kemenyfy.com",
+    "build": "",
+    "deploy": "surge ./public --domain kemenyfy.com",
     "start": "browser-sync start --server \"public\" --files \"public\""
   },
   "dependencies": {
